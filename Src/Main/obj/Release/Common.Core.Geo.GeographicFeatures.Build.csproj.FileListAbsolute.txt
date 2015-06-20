@@ -1,0 +1,3 @@
+C:\DevSource\Tamu\GeoInnovation\Common.Core.Geo.GeographicFeatures\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Geo.GeographicFeatures.dll.config
+C:\DevSource\Tamu\GeoInnovation\Common.Core.Geo.GeographicFeatures\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Geo.GeographicFeatures.dll
+C:\DevSource\Tamu\GeoInnovation\Common.Core.Geo.GeographicFeatures\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Geo.GeographicFeatures.dll
