@@ -107,7 +107,7 @@ namespace USC.GISResearchLab.Common.GeographicFeatures.FCCs
 
         public static string[] ByName(string name)
         {
-            string [] ret = null;
+            string[] ret = null;
             if (FCCTypeMappings.ContainsKey(name))
             {
                 ret = (string[])FCCTypeMappings[name];
